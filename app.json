@@ -1,5 +1,5 @@
 {
-  "name":"IBRAHIM-AI-10.10",
+  "name":"CYRUS-TECK",
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/090fa0905ff1a111c0195.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
+      "value":"CYRUS-𝗧𝗘𝗖𝗛",
       "required":false
 
     } ,
@@ -65,14 +65,14 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0x0VXBZZDcySFNoZTFEbHlxNXFIZ0hPZXp2K3hBaVhsblJIQmppYkMyST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRC9kek45VkRIcWc4N3lrT0pDR3NWV29rYnlhdmtobFNCS0ljTUlFQkJSOD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNSmtTL20wYXNnZG1rNkdKbU5rWEtPd0t6YkJMWW9LZlp2cThUOGI2KzFJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJTekhTY1pYYUFFbEMyR3VyMmtSNUtRUVJ5K3dnMVZrSVBxOHNGb2FvMGhRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtNZ2tlcWt4VkhIRlZrU3ZucXc5VzdKVDAwM29ZYWFUN3EwTGY3SmRTa2c9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik43eitaYVQvZzBqOHZ3RlFPMG1Zb3B6NGZHSGorWjdudFczdzRFbVh5QXc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0RiZW1uTHhlWncwbnIvb0lVZHNoTkpGQ2crZ2hQYklpMGFZbHd2VkUzaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUswOEhhVU8xSlpSekowUW1sMlVYRVlrQzZPU08xZkZTdjlia2lOcmttND0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkwzYUQrU3NMT3REUk1BV09YYmdQei92Wnh1ZnpIdHBnd1RlZHAvdWprcndBcEt3Ynp6LzhBSGEzeU1YTVo5Q3hkNGpJbmlER3NSekJuQ0RyS0ZsL2l3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NzYsImFkdlNlY3JldEtleSI6IjlMdnlxRXZwU0NWVVNYRVZtdDNwRmlCSzk3TVcrb0NDb1JweEtxM0RMdUE9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0NzQ2ODEyNDMxQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkE1RDdDNEM4MTU4NDQ5RjlFQkZBQkRBNDBGN0ZDQTJEIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MDk2Mjg1NjZ9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InluUTRRdnpPU3BLRmJ4ekJuQTZVUFEiLCJwaG9uZUlkIjoiOGRlMDRmOTMtZWE1NS00ZTRkLWEwZGEtMWNmODA3MGZlZmRjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjExNVowbHVtZHZheUVTYmxYMWozNS9BY2NpWT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ0eEJWQXpNYlY5ZjdGR01PbWY1S1pPdkZRZ3M9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiU0ZRUUZFVlkiLCJtZSI6eyJpZCI6IjI1NDc0NjgxMjQzMToxMEBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJDeXJ1cyDihKIiLCJsaWQiOiIyMTI1NTM3MjA0MTQyMTU6MTBAbGlkIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKcnN1ZFVCRUl5NW02OEdHQVFnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJ5ZFBCMGlQbG5EM3JDb2IzVTBtSjR6aFllVm1LWUpEcDZ5S1JZczJsWWdzPSIsImFjY291bnRTaWduYXR1cmUiOiJ0YzgxN3hid2JPMGxJNGhON3RERkZzMGMrY1F3eVhaQ2hHK3BvUXNIUHl1MDFSZG5xbDNiKzRvNWp1UnVoQXMzdGY4SWNBY3dqNmlEckZCcFY0MnhDQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiYTNBUkhUYXREYzRkVVoxVWxCUDdXQzZMMm1td3pZaE9EbGR3akc5UVRKSVQvWU9oa1hOY0prWHRPNHhZcWoxTStLSW1LZzZ2MjdVcUlodUJNQWdTakE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3NDY4MTI0MzE6MTBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCY25Ud2RJajVadzk2d3FHOTFOSmllTTRXSGxaaW1DUTZlc2lrV0xOcFdJTCJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcwOTYyODU1OSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCL04ifQ==",
       "required":true
       
     },
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Kijana ya shosh",
     "required": false,
     "value": "MR IBRAHIM"
   },
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254710772666"
+    "value": "254746812431"
   },
     "WARN_COUNT":
   {
